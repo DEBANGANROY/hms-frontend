@@ -1,0 +1,18 @@
+#aboutus {
+  background-color: #002b57;
+  color: white;
+}
+
+#aboutus h2 {
+  text-shadow: 2px 0px 10px rgb(2, 246, 242);
+}
+#headline{
+  width: 30%;
+  color: rgb(0, 0, 0);
+  text-decoration: wavy;
+  text-shadow: 1px 0px 10px grey;
+}
+
+#leaders h2{
+ text-shadow: 2px 0px 10px grey;
+}
